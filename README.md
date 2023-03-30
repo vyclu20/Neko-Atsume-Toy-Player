@@ -5,7 +5,7 @@ Project was last updated on: 30 March 2023
 
 ## Neko Atsume Background
 
-Neko Atsume is a popular Japanese mobile game. The game's name is translated as "cat collecting" or "gathering cats." The goal of the game is to collect as many cats as possible and add them to a player's virtual catbook.
+Neko Atsume, a popular Japanese mobile game, is named after the concept of "cat collecting" or "gathering cats." The objective of the game is to collect as many cats as possible and add them to a player's virtual catbook.
 
 ## Program Information
 
