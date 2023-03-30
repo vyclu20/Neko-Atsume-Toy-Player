@@ -15,24 +15,17 @@ This program enables users to interact with four different cats. Users can speci
 
 **A basic rundown of how it was coded, and how it works**
 
-➜ The program receives user input for the number of times they want the cat to catch the toy.
+> The program receives user input for the number of times they want the cat to catch the toy.
 
-➜ Using a loop, the program repeats the action of the cat catching the toy until the specified number of catches is reached.
+> Using a loop, the program repeats the action of the cat catching the toy until the specified number of catches is reached.
 
-➜ The program updates a score or counter variable to keep track of the number of catches.
+> The program updates a score or counter variable to keep track of the number of catches.
 
-➜ The program displays an information banner and provides a music option using GUI elements and event handlers.
+> The program displays an information banner and provides a music option using GUI elements and event handlers.
 
-➜ When the program is closed or exited, any necessary cleanup operations are performed, such as closing open files or releasing system resources.
+> When the program is closed or exited, any necessary cleanup operations are performed, such as closing open files or releasing system resources.
 
 I had planned to change the input label from 'Enter cat playtime' to match the name of the cat that is currently on the screen. For instance, if someone selects the first cat, the label would say 'Enter Bandit's playtime,' and if the third cat is chosen, it would change to 'Enter Sunny's playtime.' Additionally, I wanted to include sound effects to the buttons. Unfortunately, I couldn't find any suitable ones online, so if I really wanted to perfect this I'd have to get the sound effects myself. In the future, I hope to implement these features and also improve the design by incorporating easter eggs and other elements.
 
 All the music and images used are included in this repository!
 
-∩―――――――――――――∩
-||     ∧ ﾍ　 ||
-||   (* ´ ｰ`) ZZzz
-|ﾉ^⌒⌒づ`￣  ＼
-(　ノ　　⌒ ヽ ＼
-＼　　||￣￣￣￣￣||
-　 ＼,ﾉ||
