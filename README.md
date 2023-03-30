@@ -13,7 +13,7 @@ This code is for a web page that emulates a toy simulator that is "Neko Atsume" 
 
 This program enables users to interact with four different cats. Users can specify the number of times they want their selected cat to catch the 'Mister Dragonfly' toy, and the cat will respond accordingly. In addition, the website also includes an information banner and a music option for those who are interested.
 
-**A basic rundown of how it was coded, and how it works**
+**A basic rundown of how it works**
 
 > The program receives user input for the number of times they want the cat to catch the toy.
 
