@@ -35,6 +35,9 @@ function hidePopup() {
   popup.style.display = "none";
 }
 
+gif.addEventListener("click", showPopup);
+closeBtn.addEventListener("click", hidePopup);
+
 function toggleMusic() {
   if (!isMusicPlaying) {
     audio.play();
@@ -47,10 +50,6 @@ function toggleMusic() {
   }
 }
 
-gif.addEventListener("click", showPopup);
-closeBtn.addEventListener("click", hidePopup);
-
- 
 //This is to change the png images to gifs when firing the go button
 const goButton = document.getElementById("go-button");
 
